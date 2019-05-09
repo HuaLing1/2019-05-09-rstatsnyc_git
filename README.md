@@ -1,4 +1,4 @@
-This is the Git workshop during the New york R conference
+This is the Git workshop during the New york R (NY) conference
 
 This is an edit on rstudio on my laptop. 
 
