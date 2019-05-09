@@ -1,4 +1,4 @@
-This is the Git workshop during the NYR conference
+This is the Git workshop during the NYR (new york) conference
 This is my own exercise of modifying the readme file during the break.
 We just talked about init, status, log, add etc
 This is the line of text I do not want. 
